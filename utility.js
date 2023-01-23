@@ -8,3 +8,5 @@ utility.types = {
     app: ['exe', 'dmg', 'pkg', 'deb']
 
 }
+
+module.exports = utility

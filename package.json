@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "archiver": "^5.3.1",
     "chalk": "^2.4.1"
-  }
+  },
+  "name": "file-system-organizer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okieLoki/file-organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "file-genie":"main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/okieLoki/file-organizer/issues"
+  },
+  "homepage": "https://github.com/okieLoki/file-organizer#readme",
+  "description": ""
 }
